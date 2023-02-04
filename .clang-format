@@ -1,0 +1,10 @@
+# Format Style Options - Created with Clang Power Tools
+---
+BasedOnStyle: Microsoft
+AlignConsecutiveMacros: Consecutive
+AlignConsecutiveAssignments: Consecutive
+AlignConsecutiveBitFields: Consecutive
+AlignConsecutiveDeclarations: Consecutive
+ColumnLimit: 0
+SortIncludes: false
+...
